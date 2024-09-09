@@ -4,7 +4,7 @@
 
 const char* default_SSID = "FIAP-IBM"; 
 const char* default_PASSWORD = ""; 
-const char* default_BROKER_MQTT = "46.17.108.113"; 
+const char* default_BROKER_MQTT = "104.41.46.57"; 
 const int default_BROKER_PORT = 1883; 
 const char* default_TOPICO_SUBSCRIBE = "/TEF/lampmatheus/cmd"; 
 const char* default_TOPICO_PUBLISH_1 = "/TEF/lampmatheus/attrs"; 
