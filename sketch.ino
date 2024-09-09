@@ -2,7 +2,7 @@
 #include <PubSubClient.h>
 
 
-const char* default_SSID = "FIAP-IBM"; 
+const char* default_SSID = "Wokwi-GUEST"; 
 const char* default_PASSWORD = ""; 
 const char* default_BROKER_MQTT = "104.41.46.57"; 
 const int default_BROKER_PORT = 1883; 
